@@ -1,8 +1,8 @@
 - Meu nome é Leonardo
 - Grandes sonhos, em busca de conhecimento
-- Aprendendo Diversas linguagens como exemplo java, python e outros
+- Aprendendo diversas linguagens como exemplo java, python e outros
 - Fazendo curso tecnico na satc
-- Gosto de jogar, ver lives, ler livros
+- Gosto de jogar, ver lives e  ler livros
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
 
