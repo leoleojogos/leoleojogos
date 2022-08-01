@@ -6,7 +6,8 @@
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
 
-profile in english
+🏴🏴profile in english🏴🏴
+
 - My name is Leonardo
 - Big dreams, in search of knowledge
 - Learning several languages ​​such as java, python and others
