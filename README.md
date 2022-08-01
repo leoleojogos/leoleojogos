@@ -3,7 +3,7 @@
 - Aprendendo Diversas linguagens como exemplo java, python e outros
 - Fazendo curso tecnico na satc
 - Gosto de jogar, ver lives, ler livros
-- Simples é humilde precisar de algo só chamar
+- Simples e humilde precisar de algo só chamar
 - 😎🤝
 
 ![giphy](https://user-images.githubusercontent.com/110418480/182227870-62c32322-bfb9-45b8-9eb6-fd3d8a448225.gif)
