@@ -17,7 +17,8 @@
 - 😎🤝
 
 
-![giphy](https://user-images.githubusercontent.com/110418480/182227870-62c32322-bfb9-45b8-9eb6-fd3d8a448225.gif)
+![ezgif-1-82d877ac8e](https://user-images.githubusercontent.com/110418480/182233109-8966dac5-6209-4440-8a91-336e8199f237.gif)
+
 
 <!---
 leoleojogos/leoleojogos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
