@@ -2,7 +2,7 @@
 - Grandes sonhos, em busca de conhecimento
 - Aprendendo diversas linguagens como exemplo java, python e outros
 - Fazendo curso tecnico na satc
-- Gosto de jogar, ver lives e  ler livros
+- Gosto de jogar, ver lives,escutar musica, tomar muito café  e  ler livros
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
 
@@ -12,7 +12,7 @@
 - Big dreams, in search of knowledge
 - Learning several languages ​​such as java, python and others
 - Taking a technical course at satc
-- I like to play games, watch lives, read books
+- I like to play, watch lives, listen to music, drink a lot of coffee and read books
 - Simple and humble need something just call
 - 😎🤝
 
