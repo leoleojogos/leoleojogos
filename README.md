@@ -5,6 +5,9 @@
 - Gosto de jogar, ver lives,escutar musica, tomar muito café  e  ler livros
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
+- Contato
+- Gmail: leoramosdev1@gmail.com
+- Wwhatsapp: +55 48 991524963
 
 🏴🏴profile in english🏴🏴
 
