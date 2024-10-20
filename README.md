@@ -7,7 +7,7 @@
 - 😎🤝
 - Contato
 - Gmail: leoramosdev1@gmail.com
-- Wwhatsapp: +55 48 991524963
+- Wwhatsapp: +55 48 999384134
 
 🏴🏴profile in english🏴🏴
 
