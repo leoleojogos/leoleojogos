@@ -6,7 +6,7 @@
 - 😎🤝
 - Contato
 - Gmail: leoramosdev1@gmail.com
-- Wwhatsapp: +55 48 999384134
+- Whatsapp: +55 48 999384134
 
 ### 💻 Tech Stack Highlights
 
