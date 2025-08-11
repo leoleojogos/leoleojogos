@@ -1,23 +1,12 @@
 - Meu nome é Leonardo
 - Grandes sonhos, em busca de conhecimento
-- Aprendendo diversas linguagens como exemplo java, python e outros
-- Fazendo superior em engenharia da computação
-- Gosto de jogar, ver lives,escutar musica, tomar muito café  e  ler livros
+- Fazendo superior em engenharia de Software
+- Gosto de Games,escutar musica, tomar muito café  e  ler livros
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
 - Contato
 - Gmail: leoramosdev1@gmail.com
 - Wwhatsapp: +55 48 999384134
-
-🏴🏴profile in english🏴🏴
-
-- My name is Leonardo
-- Big dreams, in search of knowledge
-- Learning several languages ​​such as java, python and others
-- Taking a technical course at satc
-- I like to play, watch lives, listen to music, drink a lot of coffee and read books
-- Simple and humble need something just call
-- 😎🤝
 
 ### 💻 Tech Stack Highlights
 
