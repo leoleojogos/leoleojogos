@@ -19,6 +19,19 @@
 - Simple and humble need something just call
 - 😎🤝
 
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoleojogos&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=leoleojogos&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
 
 ![ezgif-1-82d877ac8e](https://user-images.githubusercontent.com/110418480/182233109-8966dac5-6209-4440-8a91-336e8199f237.gif)
 
