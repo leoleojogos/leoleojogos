@@ -5,7 +5,7 @@
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
 - Contato
-- Gmail: leogamess@proton.me
+- Email: leogamess@proton.me
 - 
 - <div style="display: inline-block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
