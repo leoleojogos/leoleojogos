@@ -1,6 +1,6 @@
 - Meu nome é Leonardo
 - Grandes sonhos, em busca de conhecimento
-- Fazendo superior em engenharia de Software atualemnte na 4 fase
+- Fazendo superior em engenharia de Software atualmente na 4 fase
 - Gosto de Games,escutar musica, tomar muito café  e  ler livros
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
