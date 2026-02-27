@@ -1,13 +1,12 @@
 - Meu nome é Leonardo
 - Grandes sonhos, em busca de conhecimento
-- Fazendo superior em engenharia de Software
+- Fazendo superior em engenharia de Software atualemnte na 4 fase
 - Gosto de Games,escutar musica, tomar muito café  e  ler livros
 - Simples e humilde precisar de algo só chamar
 - 😎🤝
 - Contato
-- Gmail: leoramosdev1@gmail.com
-- Whatsapp: +55 48 999384134
-
+- Gmail: leogamess@proton.me
+- 
 - <div style="display: inline-block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
