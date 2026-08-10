@@ -1,9 +1,6 @@
 - Meu nome é Leonardo
 - Grandes sonhos, em busca de conhecimento
-- Fazendo superior em engenharia de Software atualmente na 4 fase
-- Gosto de Games,escutar musica, tomar muito café  e  ler livros
-- Simples e humilde precisar de algo só chamar
-- 😎🤝
+- Fazendo superior em engenharia de Software atualmente na 5 fase
 - Contato
 - Email: leogamess@proton.me
 - 
@@ -20,19 +17,7 @@
 </div>
 
 
-### 💻 Tech Stack Highlights
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoleojogos&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
-
-### 🟩 Latest Commit Energy
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leoleojogos&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leoleojogos&theme=github-dark" />
 
 
 
