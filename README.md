@@ -34,6 +34,25 @@
     />
   </picture>
 
+  <!-- My Top Languages -->
+  <a href="https://github.com/pedrobellarminocardoso">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leoleojogos&layout=compact&theme=github_dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leoleojogos&layout=compact&hide_border=true"
+        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        height="185em"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leoleojogos&layout=compact&hide_border=true"
+        alt="Linguagens mais usadas"
+      />
+    </picture>
+  </a>
+
 
 
 
